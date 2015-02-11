@@ -14,9 +14,9 @@
     color: '#CCC',
     faces: 14,
     images: [
-      "images/gem-02.gif",
-      "images/gem-05.gif",
-      "images/gem-09.gif"
+      "gem-02.gif",
+      "gem-05.gif",
+      "gem-09.gif"
     ]
   }, {
     name: 'Bloodstone',
@@ -27,9 +27,9 @@
     color: '#EEE',
     faces: 12,
     images: [
-      "images/gem-01.gif",
-      "images/gem-03.gif",
-      "images/gem-04.gif"
+      "gem-01.gif",
+      "gem-03.gif",
+      "gem-04.gif"
     ]
   }, {
     name: 'Zircon',
@@ -40,9 +40,9 @@
     color: '#000',
     faces: 6,
     images: [
-      "images/gem-06.gif",
-      "images/gem-07.gif",
-      "images/gem-10.gif"
+      "gem-06.gif",
+      "gem-07.gif",
+      "gem-10.gif"
     ]
   }];
 })();

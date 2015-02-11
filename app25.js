@@ -81,9 +81,9 @@ app.directive('productGallery', function() {
       color: '#CCC',
       faces: 14,
       images: [
-        "images/gem-02.gif",
-        "images/gem-05.gif",
-        "images/gem-09.gif"
+        "gem-02.gif",
+        "gem-05.gif",
+        "gem-09.gif"
       ],
       reviews: [{
         stars: 5,
@@ -103,9 +103,9 @@ app.directive('productGallery', function() {
       color: '#EEE',
       faces: 12,
       images: [
-        "images/gem-01.gif",
-        "images/gem-03.gif",
-        "images/gem-04.gif"
+        "gem-01.gif",
+        "gem-03.gif",
+        "gem-04.gif"
       ],
       reviews: [{
         stars: 3,
@@ -125,9 +125,9 @@ app.directive('productGallery', function() {
         color: '#000',
         faces: 6,
         images: [
-          "images/gem-06.gif",
-          "images/gem-07.gif",
-          "images/gem-08.gif"
+          "gem-06.gif",
+          "gem-07.gif",
+          "gem-08.gif"
         ],
         reviews: [{
           stars: 1,
